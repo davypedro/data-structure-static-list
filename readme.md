@@ -1,10 +1,14 @@
-UNIVERSIDADE FEDERAL DA PARAÍBA
-CENTRO DE INFORMÁTICA
-Disciplina: Estrutura de Dados
-Entrega da atividade : 13/09/2022
-Lista sequencial (array)
-Implemente uma lista sequencial de inteiros, utilizando o tipo vetor, de inteiros com as
+## UNIVERSIDADE FEDERAL DA PARAÍBA - CENTRO DE INFORMÁTICA 
+
+### Disciplina: Estrutura de Dados
+
+### Entrega da atividade : 13/09/2022
+
+### Lista sequencial (array)
+
+###Implemente uma lista sequencial de inteiros, utilizando o tipo vetor, de inteiros com as
 seguintes operações:
+
 1. Criação da lista vazia;
 2. Verificar se a lista está vazia;
 3. Verificar se a lista está cheia;
@@ -13,7 +17,8 @@ seguintes operações:
 posição na lista;
 6. Inserir um elemento em uma determinada posição;
 7. Retirar um elemento de uma determinada posição.
-Observações de implementação:
+
+### Observações de implementação:
 • As posições válidas de uma lista são 1 até o tamanho da lista, ou seja, se a lista
 tem 3 elementos, as posições válidas são 1, 2 e 3. Não confunda com os índices
 do vetor.
