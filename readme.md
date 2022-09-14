@@ -22,10 +22,13 @@ posição na lista;
 • As posições válidas de uma lista são 1 até o tamanho da lista, ou seja, se a lista
 tem 3 elementos, as posições válidas são 1, 2 e 3. Não confunda com os índices
 do vetor.
+
 • As implementações deverão estar sob controle de versão (git), hospedadas em
 um servidor público (GitHub) ou privado (BitBucket).
 • Quando compiláveis, as implementações deverão ser acompanhadas de um
 Makefile.
+
 • As implementações deverão ser acompanhadas de casos de teste que possam ser
 executados por linha de comando.
+
 • Enviar na atividade do sigaa o link do código no repositório.
